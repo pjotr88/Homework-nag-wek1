@@ -15,17 +15,15 @@
     
     h1 {
         top: 10%;
-        right: 10%;
+        right: 0%;
         font-family: Verdana;
-        font-size: 20px;
         color: white;
     } 
 
     h2 {
         top: 10%;
-        left: 15%;
+        right: 0%;
         font-family: Verdana;
-        font-size: 30px;
         color: white;
     }
 
